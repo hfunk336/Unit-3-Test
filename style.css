@@ -4,6 +4,14 @@ form p{
 }
 body{
     vertical-align: middle;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 50px;
+    border-width: 2px;
+    border-color: rgb(233, 164, 16);
+    border-style: solid;
 }
 html{
     background: radial-gradient( aqua, teal, black);
@@ -31,4 +39,10 @@ form, p{
     color:rgb(236, 178, 71);
     font-size: 20px;
     text-shadow: black 2px 2px 2px;
+}
+section img{
+    box-shadow: rgb(0, 0, 0) 20px 20px 30px;
+}
+section{
+    font-family: 'Fira Sans', sans-serif;
 }
